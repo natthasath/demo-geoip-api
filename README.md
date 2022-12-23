@@ -1,4 +1,4 @@
-# 🎉 Demo Python GeoIP
+# 🎉 Demo GeoIP API
 
 Best IP Lookup Tools. Secure & fast IP Address Geolocation API. Most comprehensive API for IP info (city country latitude longitude timezone postal etc.)
 
