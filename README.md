@@ -1,6 +1,6 @@
-# 🎉 Template Python FastAPI
+# 🎉 Demo Python GeoIP
 
-FastAPI framework, high performance, easy to learn, fast to code, ready for production
+Best IP Lookup Tools. Secure & fast IP Address Geolocation API. Most comprehensive API for IP info (city country latitude longitude timezone postal etc.)
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
