@@ -1,2 +1,2 @@
 * linguist-detectable=false
-*.py linguist-detectable=true
+*.yml linguist-detectable=true
