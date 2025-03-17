@@ -9,10 +9,12 @@ router = APIRouter(
     responses={404: {"message": "Not found"}}
 )
 
+geoip_service = GeoipService()
+
 @router.get("/get_ip")
 async def get_ip():
-    return GeoipService().get_ip()
+    return geoip_service.get_ip()
 
 @router.post("/get_location")
 async def get_location(data: GeoipSchema = Depends(GeoipSchema)):
-    return GeoipService().get_location(data.ip_address)
+    return geoip_service.get_location(data.ip_address)
